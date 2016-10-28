@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="floatingactionbutton-1.0.7">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.melnykov/floatingactionbutton/1.0.7/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.melnykov/floatingactionbutton/1.0.7/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.melnykov/floatingactionbutton/1.0.7/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$APPLICATION_HOME_DIR$/gradle/gradle-2.10/caches/modules-2/files-2.1/com.melnykov/floatingactionbutton/1.0.7/ea8ab997dcca878b61218ed2046fa596e4ce04eb/floatingactionbutton-1.0.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
